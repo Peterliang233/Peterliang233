@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peterliang233&repo=ncuhome-hackweek-group3)](https://github.com/Peterliang233/ncuhome-hackweek-group3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peterliang233&repo=go-web-blog)](https://github.com/Peterliang233/go-web-blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterliang233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
