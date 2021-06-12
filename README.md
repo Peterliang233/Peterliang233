@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](http://antzuhl.cn:4000/get/@Peterliang233.readme)
+![info](https://github-readme-stats.vercel.app/api?Peterliang233=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peterliang233&repo=ncuhome-hackweek-group3)](https://github.com/Peterliang233/ncuhome-hackweek-group3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peterliang233&repo=go-web-blog)](https://github.com/Peterliang233/go-web-blog)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterliang233&layout=compact)](https://github.com/Peterliang233/ncuhome-hackweek-group3)
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-![](http://antzuhl.cn:4000/get/@Peterliang233.readme)
-![info](https://github-readme-stats.vercel.app/api?Peterliang233=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
