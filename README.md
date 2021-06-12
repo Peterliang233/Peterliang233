@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Peterliang233.readme)
 ![](http://antzuhl.cn:4000/get/@Peterliang233.readme)
+
 Platform&Tools
 ### linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -31,3 +32,7 @@ Platform&Tools
 ### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&theme=vue-dark)
+
+
