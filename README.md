@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=Peterliang233.readme)
 ![info](https://github-readme-stats.vercel.app/api?Peterliang233=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peterliang233&repo=ncuhome-hackweek-group3)](https://github.com/Peterliang233/ncuhome-hackweek-group3)
