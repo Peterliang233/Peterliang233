@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m an ncuacmer & ncuhomer
+- 🔭 I’m a ncuacmer & ncuhomer
 - 🔭 I’m currently working on ncuhome
 - 🌱 I’m currently learning golang & algorithm
 
