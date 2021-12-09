@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 ##### 手机设备
 [![](https://img.shields.io/badge/Xiaomi-青春版-f5010c?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 ##### 程序语言
-[![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
-
+[![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C-red.svg?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Rust-yellow.svg?style=flat-square&logo=rust&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 [![languages](https://github.com/Peterliang233/github-stats/blob/master/generated/languages.svg)](https://github.com/Peterliang233/github-stats)
 [![overview](https://github.com/Peterliang233/github-stats/blob/master/generated/overview.svg)](https://github.com/Peterliang233/github-stats)
