@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ##### 程序语言
 [![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&count_private=true)](https://github.com/Peterliang233/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterliang233)](https://github.com/Peterliang233/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterliang233&layout=compact)](https://github.com/Peterliang233/github-readme-stats)
+[![languages](https://github.com/Peterliang233/github-stats/blob/master/generated/languages.svg)](https://github.com/Peterliang233/github-stats)
+[![overview](https://github.com/Peterliang233/github-stats/blob/master/generated/overview.svg)](https://github.com/Peterliang233/github-stats)
