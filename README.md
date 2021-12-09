@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### Platform&Tools
 ##### 电脑系统
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)  [![](https://img.shields.io/badge/Windows%20-33aadd?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/ubuntu-990000?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  [![](https://img.shields.io/badge/Windows%20-33aadd?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
 ##### 手机设备
 [![](https://img.shields.io/badge/Xiaomi-青春版-f5010c?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 ##### 程序语言
