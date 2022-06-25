@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m a ncuacmer & ncuhomer
-- 🔭 I’m currently working on ncuhome
-- 🌱 I’m currently learning golang & algorithm
+- 🔭 I’m currently working on bytedance(hangzhou,zhejiang province)
+- 🌱 I’m currently learning golang && algorithm
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Peterliang233.readme)
 ![](http://antzuhl.cn:4000/get/@Peterliang233.readme)
