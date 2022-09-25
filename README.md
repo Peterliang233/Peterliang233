@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Rust-yellow.svg?style=flat-square&logo=rust&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
-[![Peterliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Peterliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peterliang233&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterliang233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
