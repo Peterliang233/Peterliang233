@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 🔭 I graduated from Nanchang University in June 2023.
 - ✨ I’m currently working on bytedance@hangzhou.
-- 🌱 I am interested in algorithm && blockchain.
+- 🌱 I am interested in algorithm && rust.
